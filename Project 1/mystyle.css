@@ -1,0 +1,29 @@
+.topheader-heading,
+.topheader-intro {
+	text-align: center;
+}
+.topheader {
+	padding: 6em 0;
+	background-image: url('http://i.imgur.com/tWMVjwR.jpg');
+  background-size: cover;
+   background-repeat: no-repeat;
+  border-top: solit 1em #FFCF33;
+}
+.topheader-intro {
+	margin-bottom: 0.1em;
+}
+.topheader-heading {
+	margin-top: -0.2em;
+}
+.footer,
+.introduction-section,
+.location-section,
+.questions-section {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+.footer {
+  text-align: center;
+}
