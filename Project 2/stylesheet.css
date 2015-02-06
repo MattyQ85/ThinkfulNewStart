@@ -89,4 +89,32 @@ div {
     background-repeat: no-repeat;
     background-size: cover;
     height: 45.938rem;
+    overflow: auto;
+    color: white;
+    text-align: center;
+    vertical-align: baseline;
+}
+.active {
+  font-weight: bold;
+}
+h1, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+h1 {
+  font-size: 3em;
+}
+/* Button Section */
+.big-button {
+  text-shadow: none;
+  border-style: none;
+  border-radius: 4px;
+  padding: 16px 26px;
+  line-height: 1.33;
+  width: 150px;
+  height: 50px;
+  font-size: .7em;
+  background-color: #f15a29;
+  font-color: white;
+  color: white;
 }
