@@ -7,7 +7,7 @@
 
 <p>You might occasionally experience frustration during this lesson, but stick with it. Solving problems you encounter will help you internalize your new coding skills. And just remember, by the end of the lesson, you will have created your own "About Me" page from scratch.</p>
 
-<h3>Secon Project - Karma Landing Page</h3>
+<h3>Second Project - Karma Landing Page</h3>
 <p>For this project, you will clone the landing page of a startup called Karma. Since Karma is a live startup that regularly updates their site, the link above will send you to a previous version of Karma's site.</p>
 
 <p>You will begin this lesson by updating Sublime text, which will then be used to build your Karma clone. To save your work you will be using GitHub, so you will also be initializing a new repository before starting to build your Karma clone.</p>
