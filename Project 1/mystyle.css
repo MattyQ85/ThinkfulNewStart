@@ -10,6 +10,7 @@ h2 {
 .topheader-heading,
 .topheader-intro {
   text-align: center;
+  box-shadow: 10px 10px #888888;
 }
 .topheader {
   padding: 6em 0;

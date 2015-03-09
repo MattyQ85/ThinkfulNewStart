@@ -84,7 +84,7 @@ div {
 }
 /*top image css*/
 .introduction {
-    background-image: url('img/first-background.jpg');
+    background-image: url('img/second-background.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,12 +97,15 @@ div {
 .active {
   font-weight: bold;
 }
-h1, h3 {
+h1, h2, h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: lighter;
 }
-h1 {
+h1, h2 {
   font-size: 3em;
+}
+h2 {
+  text-align: center;
 }
 /* Button Section */
 .big-button {
@@ -117,4 +120,37 @@ h1 {
   background-color: #f15a29;
   font-color: white;
   color: white;
+}
+/* Case Images */
+.cases {
+    background-color: #fff;
+    overflow: hidden;
+    padding-bottom: 5rem;
+    border: 1px solid black;
+}
+.cases .content {
+    margin-top: 8rem;
+    padding: none;
+    color: #1d1e21;
+    text-align: center;
+    border: 0px solid black;
+}
+.cases h2 {
+    font-size: 2.75rem;
+    margin: 1.625rem 0 3.125rem;
+    font-weight: 300;
+}
+.cases .devices > li {
+    width: 33.3333333%;
+    float:left;
+}
+.cases .devices .caption h3 {
+    color: black;
+    font-weight: 400;
+    font-size: 1.563rem;
+    margin: 2.5rem 0px 1.875rem;
+}
+.cases .devices p {
+    font-weight: 300;
+    font-size: 1.313rem;
 }
